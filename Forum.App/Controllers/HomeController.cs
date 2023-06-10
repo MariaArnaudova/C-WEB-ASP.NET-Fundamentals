@@ -3,7 +3,7 @@ namespace Forum.App.Controllers
 {
     using System.Diagnostics;
     using Microsoft.AspNetCore.Mvc;
-    using Models;
+    using ViewModels;
     public class HomeController : Controller
     {
 
