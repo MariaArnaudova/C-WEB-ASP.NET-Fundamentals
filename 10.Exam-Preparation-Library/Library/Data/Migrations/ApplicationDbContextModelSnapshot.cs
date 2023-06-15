@@ -146,7 +146,7 @@ namespace Library.Data.Migrations
 
                     b.HasIndex("CollectorId");
 
-                    b.ToTable("IdentityUserBook");
+                    b.ToTable("IdentityUsersBooks");
 
                     b.HasComment("User books");
                 });
